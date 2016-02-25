@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./breviariumroman00churgoog_0079.png"; bbox 0 0 675 1215; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 207 65 570 84">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 207 65 570 84">
+     <span class='ocr_line' id='line_1_1' title="bbox 207 65 570 84; baseline -0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 207 66 251 81; x_wconf 69' lang='lat' dir='ltr'><em>Pma</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 258 65 339 84; x_wconf 65' lang='lat' dir='ltr'><em>strandum</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 334 66 350 80; x_wconf 70' lang='lat' dir='ltr'><em>«a</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 360 67 391 79; x_wconf 62' lang='lat' dir='ltr'><em>Mat</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 427 70 460 80; x_wconf 66' lang='lat' dir='ltr'><em>tm.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 548 72 570 84; x_wconf 73' lang='lat'><em>⁴9</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 41 87 601 1022">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 41 87 601 1022">
+     <span class='ocr_line' id='line_1_2' title="bbox 41 87 601 1022; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 41 87 601 1022; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
